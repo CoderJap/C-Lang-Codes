@@ -12,6 +12,4 @@ int main(){
     char str[]="DSA is Love";
     fputs(str,ptr);
     fclose(ptr);
-
-
 }
